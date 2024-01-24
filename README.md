@@ -1,5 +1,6 @@
 # index.html
-Hi, welcome to Bonga kora's profile,
+# git config Bongakora.mrinalmurmu92@gmail.com
+Hi, welcome to Bongakora's profile,
 <section id="dictionary">
     <h2>a="the alphabetical order followed is that of the English alphabet with certain modifications due to the use of letters with diacritical marks.the pronunciation will be stated in its proper place under each letter.the diacritical marks are following: with vowels, above the letter: (~) shows nasalization.<_ _ , below the letter :(_) shows that the vowel has an open sound Is found under e and a.---- : (.) shows that the vowel is resultant.Is found under ạ and ạ̃. With consonants, above the letter: (‘) found above the nasal ń to show that it is palatal./h2>
     <dl>
